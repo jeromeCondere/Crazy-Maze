@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1399824415 source:/home/vincent/Bureau/labyrinthe/evenement.c
+	"main.h"
+	<SDL/SDL_image.h>
+	"video.h"
+	"param.h"
+	"resize.h"
+
+1399058028 /home/vincent/Bureau/labyrinthe/main.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"evenement.h"
+	<SDL/SDL_image.h>
+
+1399470290 /home/vincent/Bureau/labyrinthe/evenement.h
+	"param.h"
+	<string.h>
+	<SDL/SDL_ttf.h>
+
+1399469408 source:/home/vincent/Bureau/labyrinthe/main.c
+	<stdio.h>
+	<stdlib.h>
+	"param.h"
+	"plateau.h"
+
+1399295345 /home/vincent/Bureau/labyrinthe/param.h
+	<SDL/SDL.h>
+
+1399472135 source:/home/vincent/Bureau/labyrinthe/param.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"param.h"
+
+1399293145 source:/home/vincent/Bureau/labyrinthe/plateau.c
+	"main.h"
+	"plateau.h"
+	<SDL/SDL.h>
+	"param.h"
+
+1399292992 /home/vincent/Bureau/labyrinthe/plateau.h
+	"param.h"
+
+1398873038 source:/home/vincent/Bureau/labyrinthe/resize.c
+	<stdlib.h>
+	<math.h>
+	<SDL/SDL.h>
+
+1399472040 source:/home/vincent/Bureau/labyrinthe/video.c
+	"video.h"
+	<string.h>
+
+1399138013 /home/vincent/Bureau/labyrinthe/video.h
+	<SDL/SDL.h>
+	<stdlib.h>
+	<stdio.h>
+	"param.h"
+	"resize.h"
+
+1398951741 /home/vincent/Bureau/labyrinthe/resize.h
+	<SDL/SDL.h>
+
+1399828035 source:/home/vincent/Bureau/labyrinthe/menu.c
+	"menu.h"
+
+1399737235 /home/vincent/Bureau/labyrinthe/menu.h
+	"main.h"
+	<SDL/SDL_ttf.h>
+

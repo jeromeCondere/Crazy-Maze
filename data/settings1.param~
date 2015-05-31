@@ -1,0 +1,7 @@
+windows 600 600
+mapSize 10 10
+mapList data/mapList.txt
+imgMapDir data/map/map_img
+imgCharDir data/character
+
+

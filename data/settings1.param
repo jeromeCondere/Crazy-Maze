@@ -1,0 +1,7 @@
+windows 700 880
+mapSize 40 40
+mapList data/mapList29.txt
+imgMapDir data/map/map_img
+imgCharDir data/character
+
+
